@@ -1,4 +1,4 @@
-# Citi_Bikes
+# Citi Bikes Analysis
 
 ## Project Summary
 For this project, the goal was to analyze user behavior to help the business strategy department assess the current logistics model of bike distribution across the city, while also identify expansion opportunities. 
@@ -36,3 +36,5 @@ JupyterLab was used for the analysis, with the following libraries:
 
 
 ## Final Deliverable
+
+
