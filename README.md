@@ -23,3 +23,16 @@ Two sets of data were used for this analysis:
 </ul>
 
 ## Systems Used
+JupyterLab was used for the analysis, with the following libraries: 
+<ul>
+    <li>Pandas</li>
+    <li>Matplotlib</li>
+    <li>Numpy</li>
+    <li>Datetime</li>
+    <li>Seaborn</li>
+</ul>
+
+## Key Takeaways
+
+
+## Final Deliverable
