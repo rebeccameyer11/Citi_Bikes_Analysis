@@ -30,6 +30,7 @@ JupyterLab was used for the analysis, with the following libraries:
     <li>Numpy</li>
     <li>Datetime</li>
     <li>Seaborn</li>
+    <li>Kepler.gl</li>
 </ul>
 
 ## Key Takeaways
