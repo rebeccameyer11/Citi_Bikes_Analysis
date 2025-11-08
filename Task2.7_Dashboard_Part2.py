@@ -6,8 +6,6 @@ import numpy as np
 from plotly.subplots import make_subplots
 import plotly.graph_objects as go
 import matplotlib.pyplot as plt
-from streamlit_keplergl import keplergl_static
-from keplergl import KeplerGl
 from datetime import datetime as dt
 from numerize.numerize import numerize
 from PIL import Image
@@ -148,17 +146,15 @@ elif page == 'Interactive Map':
     ### Create the map ###
 
     st.write("Interactive map showing aggregated bike trips across New York City")
-
-    path_to_html = "New York Citi Bikes Bike Trips Aggregated_small.html" 
-
-
-    # Read file and keep in variable
-    with open("New York Citi Bikes Bike Trips Aggregated_small.html", encoding="utf-8") as f:
+    with open("New York Citi Bikes Bike Trips Aggregated_small.html", "r", encoding="utf-8") as f:
         html_data = f.read()
+
+
+    # Display map
+    st.components.v1.html(html_data, height=900, scrolling=True)
  
     ## Show in webpage
     st.header("Aggregated Bike Trips in New York")
-    st.components.v1.html(html_data,height=1000)
     st.markdown("#### Interactive Map of Bike Trips in New York City Analysis:")
     st.markdown("Using the filter on the left hand side of the map, we can check whether the most popular start stations also appear in the most popular trips.")
     st.markdown("This interactive map visualizes aggregated Citi Bike trips across New York City and surrounding areas, showing the spatial flow of bike usage between major start and end stations. Each line represents a connection between stations, and areas with denser lines indicate higher trip volumes. The map highlights the most popular bike trips — particularly between Jersey City, Journal Square, and Hoboken — suggesting these neighborhoods serve as key hubs within the Citi Bike network. This visualization allows users to explore travel patterns geographically, which highlight high travel density that may require additional bikes or docks.")
