@@ -1,9 +1,10 @@
+pip==25.3
 streamlit
 pandas
 numpy
 plotly
 matplotlib
 streamlit-keplergl
-keplergl
 Pillow
 numerize
+pyarrow==14.0.2
