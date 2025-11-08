@@ -4,7 +4,7 @@ pandas
 numpy
 plotly
 matplotlib
-streamlit-keplergl
 Pillow
 numerize
+seaborn
 pyarrow==14.0.2
