@@ -23,14 +23,13 @@ Two sets of data were used for this analysis:
 </ul>
 
 ## Systems Used
-JupyterLab was used for the analysis, with the following libraries: 
 <ul>
-    <li>Pandas</li>
-    <li>Matplotlib</li>
-    <li>Numpy</li>
-    <li>Datetime</li>
-    <li>Seaborn</li>
-    <li>Kepler.gl</li>
+    <li>Python (including virtual environments via Anaconda)</li>
+    <li>GitHub (repositories, SSH keys, version control workflows)</li>
+    <li>Web Scraping Tools & Libraries (e.g., requests, BeautifulSoup)</li>
+    <li>NLP & Text Mining Libraries (e.g., NLTK, spaCy, pandas)</li>
+    <li>Visualization & Dashboard Tools (matplotlib, seaborn, Plotly, Streamlit, kepler.gl)</li>
+    <li>APIs for Web Data Access</li>
 </ul>
 
 ## Key Takeaways
@@ -42,5 +41,6 @@ JupyterLab was used for the analysis, with the following libraries:
 </ul>
 
 ## Final Deliverable
-
+- <a href="https://citibikesanalysis-qrqgtuhpdxhdd9g5eplksq.streamlit.app/">Streamlit Site</a><br>
+- <a href="https://vimeo.com/1135090471?share=copy&fl=sv&fe=ci">Vimeo Presentation</a><br>
 
