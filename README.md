@@ -34,6 +34,14 @@ Two sets of data were used for this analysis:
 
 ## Key Takeaways
 <ul>
+    <li>As the weather warms up, the number of trips increase, with June through October showing the highest ridership.</li>
+    <li>The most popular station is Grove St PATH, followed by South Waterfront Walkway and Hoboken Terminal.</li>
+    <li>Electric bikes and classic bikes have similar distributions for ridership and at bike stations.</li>
+    <li>Members have the highest ridership during weekdays.</li>
+</ul>
+
+## Recommendations
+<ul>
     <li>Plan Seasonally Adjusted Operations - Ridership increases significantly during warmer months (June–October) and declines in winter. Adjust maintenance schedules, bike distribution, and staffing accordingly — prioritize maintenance and redistribution during low-demand months, and scale up availability and marketing during peak seasons.</li>
    <li>Plan Seasonally Adjusted Operations - Ridership increases significantly during warmer months (June–October) and declines in winter. Adjust maintenance schedules, bike distribution, and staffing accordingly — prioritize maintenance and redistribution during low-demand months, and scale up availability and marketing during peak seasons.</li>
     <li>Service in Key Travel Areas - The interactive map highlights strong cycling activity between Jersey City, Hoboken, and Journal Square. Consider adding stations or expanding capacity in these areas to support high connectivity and meet commuter demand.</li>
@@ -41,13 +49,6 @@ Two sets of data were used for this analysis:
      <li>Support Sustainability and Community Goals - Continue leveraging Citi Bike’s role in eco-friendly travel around New York City. Encourage usage through seasonal membership campaigns and community engagement events to strengthen brand loyalty.</li>
 </ul>
 
-## Recommendations
-<ul>
-    <li>As the weather warms up, the number of trips increase, with June through October showing the highest ridership.</li>
-    <li>The most popular station is Grove St PATH, followed by South Waterfront Walkway and Hoboken Terminal.</li>
-    <li>Electric bikes and classic bikes have similar distributions for ridership and at bike stations.</li>
-    <li>Members have the highest ridership during weekdays.</li>
-</ul>
 
 ## Final Deliverable
 - <a href="https://citibikesanalysis-qrqgtuhpdxhdd9g5eplksq.streamlit.app/">Streamlit Site</a><br>
