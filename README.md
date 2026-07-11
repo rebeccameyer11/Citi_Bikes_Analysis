@@ -43,8 +43,7 @@ Two sets of data were used for this analysis:
 ## Recommendations
 <ul>
     <li>Plan Seasonally Adjusted Operations - Ridership increases significantly during warmer months (June–October) and declines in winter. Adjust maintenance schedules, bike distribution, and staffing accordingly — prioritize maintenance and redistribution during low-demand months, and scale up availability and marketing during peak seasons.</li>
-   <li>Plan Seasonally Adjusted Operations - Ridership increases significantly during warmer months (June–October) and declines in winter. Adjust maintenance schedules, bike distribution, and staffing accordingly — prioritize maintenance and redistribution during low-demand months, and scale up availability and marketing during peak seasons.</li>
-    <li>Service in Key Travel Areas - The interactive map highlights strong cycling activity between Jersey City, Hoboken, and Journal Square. Consider adding stations or expanding capacity in these areas to support high connectivity and meet commuter demand.</li>
+    <li>Enhance Service in Key Travel Areas - The interactive map highlights strong cycling activity between Jersey City, Hoboken, and Journal Square. Consider adding stations or expanding capacity in these areas to support high connectivity and meet commuter demand.</li>
     <li>Identify Expansion Opportunities - Explore underutilized areas visible on the map for potential network growth. Conduct targeted promotions or partnerships to encourage ridership in neighborhoods with good infrastructure but lower trip density.</li>
      <li>Support Sustainability and Community Goals - Continue leveraging Citi Bike’s role in eco-friendly travel around New York City. Encourage usage through seasonal membership campaigns and community engagement events to strengthen brand loyalty.</li>
 </ul>
